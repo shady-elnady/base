@@ -6,6 +6,9 @@ php -r "if (hash_file('SHA384', 'composer-setup.php') === '$HASH') { echo 'Insta
 
 sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
+sarkh
+Abu@shalaby#123
+
 /usr/local/bin/ea-php82 composer-setup.php
 
 /usr/local/bin/ea-php82 composer.phar dump
