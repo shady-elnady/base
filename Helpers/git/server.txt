@@ -2,3 +2,10 @@
 git init
 git remote add origin https://github.com/shady-elnady/base.git
 git pull origin main
+git checkout -b main
+git branch --set-upstream-to=origin/main main
+git push --set-upstream origin main
+
+Shady_N_0502910850
+git config --global user.name "shadyelnady"
+git config --global user.email "shadyelnady@gmail.com"
