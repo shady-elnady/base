@@ -1,0 +1,4 @@
+// https://medium.com/tech-learn-share/initialize-git-add-remote-origin-and-to-set-default-upstream-47e5d6dd955
+git init
+git remote add origin https://github.com/shady-elnady/base.git
+git pull origin main
